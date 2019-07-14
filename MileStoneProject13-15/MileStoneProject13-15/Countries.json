@@ -1,0 +1,81 @@
+{
+  "list" : [
+    {
+      "name" : "Estonia",
+      "capitalCity" : "Tallinn",
+      "population" : "1.316 million",
+      "currency" : "€",
+      "details" : "Estonia, a country in Northern Europe, borders the Baltic Sea and Gulf of Finland. Including more than 1,500 islands, its diverse terrain spans rocky beaches, old-growth forest and many lakes. Formerly part of the Soviet Union, it's dotted with castles, churches and hilltop fortresses. The capital, Tallinn, is known for its preserved Old Town, museums and the 314m-high Tallinn TV Tower, which has an observation deck."
+    },
+    {
+      "name" : "France",
+      "capitalCity" : "Paris",
+      "population" : "66.99 million",
+      "currency" : "€",
+      "details" : "France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. The country is also renowned for its wines and sophisticated cuisine. Lascaux’s ancient cave drawings, Lyon’s Roman theater and the vast Palace of Versailles attest to its rich history."
+    },
+    {
+      "name" : "Germany",
+      "capitalCity" : "Berlin",
+      "population" : "82.79 million",
+      "currency" : "€",
+      "details" : "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbräuhaus. Frankfurt, with its skyscrapers, houses the European Central Bank."
+    },
+    {
+      "name" : "Ireland",
+      "capitalCity" : "-",
+      "population" : "6.6 million",
+      "currency" : "€",
+      "details" : "Ireland is an island in the North Atlantic. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest on Earth."
+    },
+    {
+      "name" : "Italy",
+      "capitalCity" : "Rome",
+      "population" : "60.59 million",
+      "currency" : "€",
+      "details" : "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s \"David\" and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital."
+    },
+    {
+      "name" : "Monaco",
+      "capitalCity" : "-",
+      "population" : "38,695",
+      "currency" : "€",
+      "details" : "Monaco is a tiny independent city-state on France’s Mediterranean coastline known for its upscale casinos, yacht-lined harbor and prestigious Grand Prix motor race, which runs through Monaco’s streets once a year. Monte-Carlo, its major district, is home to an elegant belle-époque casino complex and ornate Salle Garnier opera house. It also has many luxe hotels, boutiques, nightclubs and restaurants."
+    },
+    {
+      "name" : "Nigeria",
+      "capitalCity" : "Abuja",
+      "population" : "190.9 million",
+      "currency" : "₦",
+      "details" : "Nigeria, an African country on the Gulf of Guinea, has many natural landmarks and wildlife reserves. Protected areas such as Cross River National Park and Yankari National Park have waterfalls, dense rainforest, savanna and rare primate habitats. One of the most recognizable sites is Zuma Rock, a 725m-tall monolith outside the capital of Abuja that’s pictured on the national currency."
+    },
+    {
+      "name" : "Poland",
+      "capitalCity" : "Warsaw",
+      "population" : "38.43 million",
+      "currency" : "€",
+      "details" : "Poland, officially the Republic of Poland, is a country located in Central Europe. It is divided into 16 administrative subdivisions, covering an area of 312,696 square kilometres, and has a largely temperate seasonal climate."
+    },
+    {
+      "name" : "Spain",
+      "capitalCity" : "Madrid",
+      "population" : "46.72",
+      "currency" : "€",
+      "details" : "Spain, a country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures. Capital city Madrid is home to the Royal Palace and Prado museum, housing works by European masters. Segovia has a medieval castle (the Alcázar) and an intact Roman aqueduct. Catalonia’s capital, Barcelona, is defined by Antoni Gaudí’s whimsical modernist landmarks like the Sagrada Família church."
+    },
+    {
+      "name" : "UK",
+      "capitalCity" : "London",
+      "population" : "66.04 million",
+      "currency" : "£",
+      "details" : "The United Kingdom, made up of England, Scotland, Wales and Northern Ireland, is an island nation in northwestern Europe. England – birthplace of Shakespeare and The Beatles – is home to the capital, London, a globally influential centre of finance and culture. England is also site of Neolithic Stonehenge, Bath’s Roman spa and centuries-old universities at Oxford and Cambridge."
+    },
+    {
+      "name" : "US",
+      "capitalCity" : "Washington, D.C.",
+      "population" : "327.2 million",
+      "currency" : "$",
+      "details" : "The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles' Hollywood is famed for filmmaking."
+    }
+  ]
+}
